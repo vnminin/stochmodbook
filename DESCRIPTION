@@ -1,0 +1,10 @@
+Package: stochmodbook
+Type: Package
+Title: Accompanying code for the book "Stochastic Modeling of Scientific Data" by P. Guttorp and V.N. Minin
+Version: 0.1
+Date: 2016-09-06
+Author: Vladimir Minin and Peter Guttorp
+Maintainer: Vladimir Minin <vminin@uw.edu>
+Description: Data and code
+License: GPL-3
+LazyData: TRUE
