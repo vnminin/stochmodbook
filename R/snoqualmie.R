@@ -1,6 +1,6 @@
 #' Daily precipitation at Snoqualmie Falls.
 #'
-#' A dataset containing indicators of rainy days at Snoqualmie Falls.
+#' A dataset containing indicators of rainy days at Snoqualmie Falls for 36 years starting from 1948 and ending at 1983.
 #'
 #' @format A data frame with 36 rows, corresponding to years, and 366 variables, corresponding to day within each year:
 #' \describe{
